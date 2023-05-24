@@ -31,7 +31,9 @@ wall:
     right (0, 0, 255) blue
 
 wallpost:
+  
     left (255, 255, 0) yellow
+  
     right (0, 255, 255) cyan
 
 trapdoor:
