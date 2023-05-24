@@ -23,8 +23,11 @@ If everything has been done correctly you'll see the program start processing yo
 Block Color codes:
   
 wall:
+  
     left (255, 0, 0) red
+  
     center (0, 255, 0) green
+  
     right (0, 0, 255) blue
 
 wallpost:
@@ -32,31 +35,48 @@ wallpost:
     right (0, 255, 255) cyan
 
 trapdoor:
+  
     left (0, 0, 0) black
+  
     right (255, 255, 255) white
+  
     top (255, 0, 255) magenta
+  
     bottom (127, 0, 255) purple
 
 stair:
     typej (0, 127, 255) sky blue
+  
     typel (0, 255, 127) blue green
+  
     type7 (127, 255, 0) yellow green
+  
     typer (255, 127, 0) orange
 
 fence closed:
+  
     top (255, 0, 127) hot pink
+  
     mid (127, 0, 0) maroon
 
 fence opened:
+  
     top_left (127, 127, 0) vomit
+ 
     mid_left (0, 127, 0) army green
+  
     top_right (0, 127, 127) turquois
+  
     mid_right (0, 0, 127) dark blue
 
 piston:
+  
     top (127, 0, 127) royal purple
+  
     right(127, 127, 127) grey
+  
     down(62, 0, 127) deep purple
+  
     left(127, 0, 62) wine red
 
 slab:
