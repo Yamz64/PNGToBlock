@@ -1,0 +1,5 @@
+﻿  TileGenerator.cpp
+C:\Users\james\OneDrive\Documents\Programs\C++\MinecraftPngtoBlock\PngtoBlock\PngtoBlock\TileGenerator.cpp(13,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\james\OneDrive\Documents\Programs\C++\MinecraftPngtoBlock\PngtoBlock\PngtoBlock\TileGenerator.cpp(193,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\james\OneDrive\Documents\Programs\C++\MinecraftPngtoBlock\PngtoBlock\PngtoBlock\TileGenerator.cpp(194,30): warning C4018: '<': signed/unsigned mismatch
+  PngtoBlock.vcxproj -> C:\Users\james\OneDrive\Documents\Programs\C++\MinecraftPngtoBlock\PngtoBlock\Debug\PngtoBlock.exe
