@@ -47,6 +47,7 @@ trapdoor:
     bottom (127, 0, 255) purple
 
 stair:
+  
     typej (0, 127, 255) sky blue
   
     typel (0, 255, 127) blue green
