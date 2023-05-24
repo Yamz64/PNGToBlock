@@ -82,11 +82,15 @@ piston:
     left(127, 0, 62) wine red
 
 slab:
+  
     top(189, 189, 189) light grey
+  
     bottom(62, 62, 62) charcoal
 
 full block:
+  
     (0, 62, 0) dark green
 
 air block:
+  
     (190, 255, 255) light sky blue
