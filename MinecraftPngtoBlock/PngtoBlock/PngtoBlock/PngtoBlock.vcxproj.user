@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <LocalDebuggerCommandArguments>C:\Users\james\OneDrive\Documents\Programs\C++\MinecraftPngtoBlock\TestFile\Test.png o.png</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>C:\Users\james\OneDrive\Documents\Programs\C++\MinecraftPngtoBlock\TestFile\Test.png o.png -s o.schem xy false false poop</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
 </Project>
