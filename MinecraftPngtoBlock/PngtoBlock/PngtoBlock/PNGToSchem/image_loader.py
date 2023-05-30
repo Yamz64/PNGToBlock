@@ -246,38 +246,38 @@ class ImageLoader:
 			case (127, 127, 0):
 				if(self.plane == "xy"):
 					if(not self.flip_u):
-						return "minecraft:jungle_fence_gate[facing=east,in_wall=false,open=true,powered=false]";
-					else:
 						return "minecraft:jungle_fence_gate[facing=west,in_wall=false,open=true,powered=false]";
+					else:
+						return "minecraft:jungle_fence_gate[facing=east,in_wall=false,open=true,powered=false]";
 				else:
 					if(not self.flip_u):
-						return "minecraft:jungle_fence_gate[facing=north,in_wall=false,open=true,powered=false]";
-					else:
 						return "minecraft:jungle_fence_gate[facing=south,in_wall=false,open=true,powered=false]";
+					else:
+						return "minecraft:jungle_fence_gate[facing=north,in_wall=false,open=true,powered=false]";
 			#midleft
 			case (0, 127, 0):
 				if(self.plane == "xy"):
 					if(not self.flip_u):
-						return "minecraft:jungle_fence_gate[facing=east,in_wall=true,open=true,powered=false]";
-					else:
 						return "minecraft:jungle_fence_gate[facing=west,in_wall=true,open=true,powered=false]";
+					else:
+						return "minecraft:jungle_fence_gate[facing=east,in_wall=true,open=true,powered=false]";
 				else:
 					if(not self.flip_u):
-						return "minecraft:jungle_fence_gate[facing=north,in_wall=true,open=true,powered=false]";
-					else:
 						return "minecraft:jungle_fence_gate[facing=south,in_wall=true,open=true,powered=false]";
+					else:
+						return "minecraft:jungle_fence_gate[facing=north,in_wall=true,open=true,powered=false]";
 			#topright
 			case (0, 127, 127):
 				if(self.plane == "xy"):
 					if(not self.flip_u):
-						return "minecraft:jungle_fence_gate[facing=west,in_wall=false,open=true,powered=false]";
-					else:
 						return "minecraft:jungle_fence_gate[facing=east,in_wall=false,open=true,powered=false]";
+					else:
+						return "minecraft:jungle_fence_gate[facing=west,in_wall=false,open=true,powered=false]";
 				else:
 					if(not self.flip_u):
-						return "minecraft:jungle_fence_gate[facing=south,in_wall=false,open=true,powered=false]";
-					else:
 						return "minecraft:jungle_fence_gate[facing=north,in_wall=false,open=true,powered=false]";
+					else:
+						return "minecraft:jungle_fence_gate[facing=south,in_wall=false,open=true,powered=false]";
 			#midright
 			case (0, 0, 127):
 				if(self.plane == "xy"):
