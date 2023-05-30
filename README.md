@@ -13,9 +13,9 @@ do not have to match for the program to work (16x32 is pefectly fine, but are st
 To use this tool:
 
 1) Compile the solution or use the provided release executable
-2) Drag your executable into a folder and navigate to the folder using the command prompt
+2) Drag your executable and the folder: "PNGToSchem" into a folder and navigate to the folder using the command prompt
 3) Enter the following command \<Name of executable\> \<Input image filepath\> \<Output image name\>
-4) By adding the addition arguments \<-s\> \<output schematic name\> \<Plane (XY, YZ)\> \<FlipU?\> \<Flip V?\> \<Palette (not implemented yet!)\>
+4) By adding the additional arguments \<-s\> \<output schematic name\> \<Plane (XY, YZ)\> \<FlipU?\> \<Flip V?\> \<Palette (not implemented yet!)\>
    you can output a schematic file for use in programs like World Edit.
   
 If everything has been done correctly you'll see the program start processing your image
